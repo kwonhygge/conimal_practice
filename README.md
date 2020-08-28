@@ -1,7 +1,6 @@
 # conimal_practice
 연습용 repository
 
-도리 수정쓰
-삼이 수정쓰
+도리 수정
 
-## title 1
+도리브랜치에서 수정쓰~~~ㄷㄹ
